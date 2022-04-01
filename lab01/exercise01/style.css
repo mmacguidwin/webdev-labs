@@ -10,7 +10,7 @@ body {
 Add some style blocks below this line to style the card.
 */
 
-h2 {
+section {
     box-sizing: border-box;
     border: dotted 1px #CCC; 
     width: 50vh;
@@ -18,7 +18,7 @@ h2 {
     padding: 10px;
     margin-top: 10px;
     margin-right: 10px;
-    /*margin-bottom: 10px;*/
+    margin-bottom: 10px;
     margin-left: 10px;
 }
 
